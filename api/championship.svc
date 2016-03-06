@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="RPS.api.championship" CodeBehind="championship.svc.cs" %>
