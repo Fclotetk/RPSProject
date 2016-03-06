@@ -1,0 +1,24 @@
+.thin_border{
+	border: 1px solid black;
+	
+}
+
+.mia{
+    text-align:center;
+    color:red;
+    padding-top:15px;
+}
+
+.navbar{
+    background-color:#1e1e1e;
+    height:5%;
+    color:#ffffff;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.center{
+        
+    margin-right: auto;
+  margin-left: auto;
+}
